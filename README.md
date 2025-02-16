@@ -1,1 +1,9 @@
-# judgment-action-wiki
+# Judgment Action Wiki
+
+这是关于《审判行动：致命瞄准》游戏的官方 Wiki 网站。
+
+## 项目目标
+提供游戏设定、武器介绍、开发进度等信息，供玩家查看和讨论。
+
+## 部署
+使用 Wiki.js 部署的动态 Wiki 网站。
